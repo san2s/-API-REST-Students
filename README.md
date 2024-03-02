@@ -7,8 +7,8 @@ Este proyecto utiliza Node.js y Express para crear un servidor que gestiona info
 Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu máquina antes de ejecutar el proyecto.
 
 ```bash
-# Instalar dependencias
-npm install
+npm init -y
+npm install express body-parser
 
 # Iniciar el servidor
 npm start
